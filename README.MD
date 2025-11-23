@@ -1,7 +1,7 @@
 This is Conway's life on a PIC16F628a.
 
 So what? Well the 628a is a very small microcontroller.
-I managed to squeeze it in an OLED driver and the Life program in some 200 RAM.
+I managed to squeeze it in an OLED driver and the Life program in some 200 bytes of RAM.
 
 Grid is 32x16. 
 
